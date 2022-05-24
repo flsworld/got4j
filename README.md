@@ -1,1 +1,1 @@
-# got4j
+This repo is really just here for the <a href="https://github.com/flsworld/got4j/wiki">wiki</a>
